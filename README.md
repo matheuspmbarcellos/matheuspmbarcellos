@@ -1,4 +1,26 @@
-### Olá, eu sou o Matheus Barcellos 👋
+👋 Olá, sou Matheus!
+
+🚀 Desenvolvedor Full Stack apaixonado por tecnologia e sempre em busca de desafios. Minhas principais áreas de expertise incluem:
+
+💻 Desenvolvimento Backend:
+   - Java
+   - Spring Boot
+   - PostgreSQL
+   - MongoDB
+   - AWS
+
+🌐 Desenvolvimento Frontend:
+   - React
+   - JavaScript
+   - HTML/CSS
+
+☁️ Cloud:
+   - Amazon Web Services (AWS)
+
+📚 Estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades como desenvolvedor. Além disso, sou entusiasta de código limpo, boas práticas de programação e arquitetura de software escalável.
+
+📫 Você pode me encontrar também no [LinkedIn](https://www.linkedin.com/in/matheuspmbarcellos/) para mais informações sobre minha experiência e projetos anteriores.
+
 
 <div align="center">
   <a href="https://github.com/matheuspmbarcellos">
