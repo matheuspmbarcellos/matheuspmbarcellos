@@ -7,6 +7,7 @@
  - Python com Flask
  - Node.js (Nest.js e Next.js)
  - Spring Boot (Java)
+ - Prisma
  - PostgreSQL
  - MongoDB
    
