@@ -30,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspmbarcellos&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspmbarcellos&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />             
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />             
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
