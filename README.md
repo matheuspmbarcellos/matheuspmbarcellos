@@ -3,20 +3,22 @@
 🚀 Desenvolvedor Full Stack apaixonado por tecnologia e sempre em busca de desafios. Minhas principais áreas de expertise incluem:
 
 💻 Desenvolvimento Backend:
-   - Java
-   - Spring Boot
-   - PostgreSQL
-   - MongoDB
-   - AWS
-
+ - Ruby on Rails
+ - Python com Flask
+ - Node.js (Nest.js e Next.js)
+ - Java (Spring Boot)
+ - PostgreSQL
+ - MongoDB
+   
 🌐 Desenvolvimento Frontend:
-   - React
-   - JavaScript
-   - HTML/CSS
-
+ - React
+ - JavaScript/TypeScript
+ - HTML/CSS
+   
 ☁️ Cloud:
-   - Amazon Web Services (AWS)
-
+ - Amazon Web Services (AWS) - EC2 e Amazon S3
+ - Containers Docker
+   
 📚 Estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades como desenvolvedor. Além disso, sou entusiasta de código limpo, boas práticas de programação e arquitetura de software escalável.
 
 📫 Você pode me encontrar também no [LinkedIn](https://www.linkedin.com/in/matheuspmbarcellos/) para mais informações sobre minha experiência e projetos anteriores.
@@ -35,7 +37,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://app.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fplatform%2F1709323875090.svg&w=128&q=75)">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />          
   
   ##
