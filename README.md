@@ -5,7 +5,7 @@
 💻 Desenvolvimento Backend:
  - Ruby on Rails
  - Python com Flask
- - Node.js (Nest.js e Next.js)
+ - Node.js (Nest.js)
  - Spring Boot (Java)
  - Prisma
  - PostgreSQL
@@ -13,6 +13,7 @@
    
 🌐 Desenvolvimento Frontend:
  - React
+ - Node.js (Next.js)
  - TypeScript
  - HTML/CSS
    
