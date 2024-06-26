@@ -19,6 +19,8 @@
    
 ☁️ Cloud:
  - Amazon Web Services (AWS) - EC2 e Amazon S3
+
+ 🛠️ DevOps:
  - Docker
    
 📚 Estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades como desenvolvedor. Além disso, sou entusiasta de código limpo, boas práticas de programação e arquitetura de software escalável.
