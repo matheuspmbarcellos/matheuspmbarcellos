@@ -4,7 +4,7 @@
 
 💻 Desenvolvimento Backend:
  - Ruby on Rails
- - Python com Flask
+ - Python (Flask)
  - Nest.js
  - Spring Boot (Java)
  - Prisma
@@ -16,9 +16,10 @@
  - Next.js
  - TypeScript
  - HTML/CSS
+ - Tailwind
    
 ☁️ Cloud:
- - Amazon Web Services (AWS) - EC2 e Amazon S3
+ - Amazon Web Services (AWS) - EC2 e S3
 
  🛠️ DevOps:
  - Docker
