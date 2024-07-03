@@ -27,6 +27,7 @@
 📚 Estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades como desenvolvedor. Além disso, sou entusiasta de código limpo, boas práticas de programação e arquitetura de software escalável.
 
 📫 Você pode me encontrar também no [LinkedIn](https://www.linkedin.com/in/matheuspmbarcellos/) para mais informações sobre minha experiência e projetos anteriores.
+<br/><br/> 
 
 
 <div align="center">
