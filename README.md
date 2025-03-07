@@ -1,11 +1,10 @@
 🚀 Sou Matheus, desenvolvedor Full Stack apaixonado por tecnologia e desafios. Minhas principais habilidades incluem:
 
-🖥️ **Backend**: Ruby on Rails, Python (Flask), Nest.js, Spring Boot (Java), Prisma, PostgreSQL, MongoDB  
-💻 **Frontend**: React, Next.js, TypeScript, HTML/CSS, Tailwind  
-🔧 **DevOps**: Docker, Terraform, Ansible, Kubernetes, Prometheus, ELK Stack, Git, ArgoCD  
-⚙️ **Build**: AWS, Heroku, Vercel, Netlify
+🖥️ **Backend**: Java (Spring Boot), PostgreSQL, MongoDB  
+💻 **Frontend**: Next.js, React, TypeScript, Tailwind, JS/HTML/CSS
+⚙️ **Build**: AWS, Vercel
 
-Estou sempre aprendendo e buscando novas formas de aprimorar minhas habilidades, focando em código limpo, boas práticas e arquiteturas escaláveis.
+💭 Python, Rails, Nest.js, Prisma, Docker, Keycloak...
 
 <br/><br/> 
 
